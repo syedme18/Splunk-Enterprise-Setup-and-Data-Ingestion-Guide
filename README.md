@@ -1,4 +1,4 @@
-![23](https://github.com/user-attachments/assets/08d5b598-bb1b-4b62-afe6-9bb8ece90ed5)![15](https://github.com/user-attachments/assets/5f5bd878-f126-42e2-9cd2-03cd7bf8cc9b)![14](https://github.com/user-attachments/assets/1c1a17bc-d860-45f1-9590-3d0e5eee2252)![1](https://github.com/user-attachments/assets/3577b02a-2056-4452-b9bc-3cd2817f0601)# Splunk-Enterprise-Setup-and-Data-Ingestion
+# Splunk-Enterprise-Setup-and-Data-Ingestion
 
 ## Installing Splunk Enterprise Free Trial
 
@@ -14,8 +14,6 @@
    ![2](https://github.com/user-attachments/assets/d8f4376a-0d2d-484e-9716-eb02f83b18b3)
 
 5. Fill out the registration form.  
-  ![Uploading 3.png…]()
-
    - Use your college email ID (or preferred email).
 6. Click **Create My Account** and verify your email via the link sent by Splunk.
 
